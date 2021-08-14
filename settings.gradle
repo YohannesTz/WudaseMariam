@@ -1,0 +1,3 @@
+include ':JPager'
+include ':app'
+rootProject.name = "Wudase Mariam"

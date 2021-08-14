@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <ListPreference
+            app:defaultValue="amh"
+            app:entries="@array/languages_entries"
+            app:entryValues="@array/languages_values"
+            app:key="@string/language_key"
+            app:summary="Select a language to show the parayer"
+            app:title="Select Language"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreference
+            app:defaultValue="false"
+            app:key="@string/theme_key"
+            app:title="Dark Theme" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

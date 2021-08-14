@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="langList">
+    
+        <item>@string/preference_language_am</item>
+        <item>@string/preference_language_ge</item>
+        <item>@string/choose_language_button_en</item>
+        <item>@string/choose_language_button_none</item>
+        
+    </string-array>
+    
+    <string-array name="langListValues">
+        
+        <item>@string/preference_language_am_en</item>
+        <item>@string/preference_language_ge_en</item>
+        <item>@string/preference_language_en</item>
+        <item>@string/preference_language_none</item>
+        
+    </string-array>
+    
+    <string-array name="fontSizeList">
+    
+        <item>"14"</item>
+        <item>"16"</item>
+        <item>"18"</item>
+        <item>"20"</item>
+        <item>"22"</item>
+        <item>"24"</item>
+        <item>"28"</item>
+        <item>"32"</item>
+        <item>"36"</item>
+        <item>"40"</item>
+        <item>"44"</item>
+        <item>"50"</item>
+        <item>"56"</item>
+        <item>"65"</item>
+        
+    </string-array>
+    
+    <string-array name="fontSizeListValues">
+    
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+        <item>40</item>
+        <item>44</item>
+        <item>50</item>
+        <item>56</item>
+        <item>65</item>
+        
+    </string-array>
+
+    <string-array name="prayer_array_en">
+        <item name="home_day_zeweter_button">Daily</item>
+        <item name="home_day_monday_button">Monday</item>
+        <item name="home_day_tuesday_button">Tuesday</item>
+        <item name="home_day_wednesday_button">Wednesday</item>
+        <item name="home_day_thursday_button">Thursday</item>
+        <item name="home_day_friday_button">Friday</item>
+        <item name="home_day_saturday_button">Saturday</item>
+        <item name="home_day_sunday_button">Sunday</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,468 @@
+<resources>
+    <string name="app_name" translatable="false">Wudase Mariam</string>
+
+    <string name="intro_text" translatable="false">
+        	በስመአብ ወወልድ ወመንፈስ ቅዱስ ፩ዱ አምላክ አሜን!\n
+   			ወደ ፈተና እንዳትገቡ ትጉና ጸልዩ!\n
+        	ማቴ ፳፮ ፥ ፵፩
+	</string>
+
+    <string name="intro_text_one" translatable="false">በስመአብ ወወልድ ወመንፈስ ቅዱስ ፩ዱ አምላክ አሜን!</string>
+
+    <string name="intro_text_two" translatable="false">ወደ ፈተና እንዳትገቡ ትጉና ጸልዩ!\nማቴ ፳፮ ፥ ፵፩</string>
+
+    <string name="intro_song" translatable="false">Intro Song</string>
+
+    <string name="intro_song_summary" translatable="false">Check to play the intro song at startup</string>
+
+    <string name="choose_language_list_label" translatable="false">ቋንቋ | ልሳን | Language</string>
+    <string name="choose_language_button_am" translatable="false">አማርኛ</string>
+    <string name="choose_language_button_ge" translatable="false">ግዕዝ</string>
+    <string name="choose_language_button_en" translatable="false">English</string>
+    <string name="choose_language_button_none" translatable="false">None</string>
+
+    <string name="preference_language_am_en" translatable="false">Amharic</string>
+    <string name="preference_language_ge_en" translatable="false">Geez</string>
+
+    <string name="preference_language_am" translatable="false">AMHARIC</string>
+    <string name="preference_language_ge" translatable="false">GEEZ</string>
+    <string name="preference_language_en" translatable="false">ENGLISH</string>
+    <string name="preference_language_none" translatable="false">NONE</string>
+
+    <string name="default_language" translatable="false">Default Language</string>
+
+    <string name="default_language_summary" translatable="false">Choose the language you always use</string>
+
+    <string name="default_font_size" translatable="false">Default Font Size</string>
+
+    <string name="default_font_size_summary" translatable="false">Choose the default font size you always use</string>
+
+    <string name="help_menu_label">Help</string>
+
+    <string name="help_user_manual_title">User Manual</string>
+
+    <string name="about_menu_label">About</string>
+
+    <string name="prefs_menu_label">Preferences</string>
+
+    <string name="exit_menu_label">Exit</string>
+
+    <string name="general_loading_msg">Loading, please wait #8230</string>
+
+    <string name="general_error_alert_title">Error</string>
+
+    <string name="general_alert_title">Alert</string>
+
+    <string name="about_the_app_label">
+		\t A HYMN OF PRAISE FOR ST. MARY (Ver. 1.0.0) \n
+		\t Widase Mariam (Ver. 1.0.0) \n
+		\t Programmed by: Biniam Asnake \n
+		\t Contact: biny08@gmail.com \n\n
+		\t \"Rejoice in the Lord always.\" Phil 4*4
+	</string>
+
+    <string name="home_part_of_book_list_label">Choose the part you want to read</string>
+    <string name="home_day_zeweter_button">Daily</string>
+    <string name="home_day_monday_button">Monday</string>
+    <string name="home_day_tuesday_button">Tuesday</string>
+    <string name="home_day_wednesday_button">Wednesday</string>
+    <string name="home_day_thursday_button">Thursday</string>
+    <string name="home_day_friday_button">Friday</string>
+    <string name="home_day_saturday_button">Saturday</string>
+    <string name="home_day_sunday_button">Sunday</string>
+    <string name="home_day_anqetse_birhan_button">Anqetse Birhan</string>
+    <string name="home_day_yiwedsewa_melaekt_button">Yiwedswea Melaekt</string>
+    <string name="home_day_melka_mariam_button">Melka Mariam</string>
+    <string name="home_day_melka_eyesus_button">Melka Eyesus</string>
+    <string name="home_day_melka_edom_button">Melka Edom</string>
+
+    <string name="home_go_to_choose_language_button">Go To Choose Language</string>
+
+    <string name="reader_prayer_daily_header_label">
+        DAILY PRAYER
+    </string>
+
+    <!--<string name="reader_prayer_daily_label">
+     	DAILY PRAYER
+    </string>-->
+
+    <string name="reader_prayer_daily_label">
+
+		\t፩.    በጌታዬ በኢየሱስ ክርስቶስ ትምህርተ መስቀል ፊቴንና መላ ሰውነቴን ሶስት ጊዜ  አማትባለሁ።\n\n
+
+		\t      በስመአብ ወወልድ ወመንፈስ ቅዱስ አሃዱ አምላክ አሜን (፫) ጊዜ።\n
+		\t      አንድ አምላክ በሚሆን በአብ በወልድ በመንፈስ ቅዱስ ስም ንጹህ ልዩ ክቡር ጽሩይ በሆኑ በሶስትነት ወይም በሥላሴ እያመንኩና እየተማጸንኩ ጠላቴ ሰይጣንን እክድሃለሁ።\n
+		\t      በዚች በእናቴ በቤተክርስቲያን ፊት ቆሜ እክድሃለሁ።\n
+		\t      ለዚህ ምስክሬ ማርያም ናት በዚህም  ዓለም በወዳኛውም ዓለም እርሷን አምባ መጠጊያ አድርጌ እክድሃለሁ።\n
+
+		\t፪.    አቤቱ እናመሰግንሃለን አቤቱ እናከብርሃለን አቤቱ እንገዛልሃለን አቤቱ ቅዱስ ስምህን እናመሰግናለን ፤ ጉልበት ሁሉ የሚሰግድልህ አቤቱ እንሰግድልሃለን አንደበት ሁሉ ላንተ ይገዛል\n
+		\t		የአምላኮች አምላክ የጌቶች ጌታ የንጉሶችም ንጉስ አንተ ነህ። የስጋም የነፍስም ፈጣሪ አንተ ነህ።\n
+		\t		እናንተስ በምትጸልዩበት ጊዜ እንዲህ ብላችሁ ጸልዩ ብሎ ቅዱስ ልጅህ እንዳስተማረን እንጠራሃለን።\n\n
+
+		\t፫.    \t \tአባታችን ሆይ\n\n
+
+		\t      አባታችን ሆይ በሰማያት የምትኖር ስምህ ይቀደስ መንግስትህ ትምጣ\n
+		\t      ፈቃድህ በሰማይ እንደሆነች እንዲሁም በምድር ትሁን\n
+		\t      የዕለት እንጀራችንን ስጠን ዛሬ በደላችንንም ይቅር በለን\n
+		\t      እኛም የበደሉንን ይቅር እንደምንል አቤቱ ወደ ፈተናም አታግባን\n
+		\t      ከክፉ ሁሉ አድነን እንጂ መንግስት ያንተ ናትና\n
+		\t      ኃይል ክብር ምስጋና ለዘለዓለሙ አሜን።\n\n
+
+		\t      እመቤታችን ቅድስት ድንግል ማርያም ሆይ\n
+		\t      በመልዓኩ በቅዱስ ገብርኤል ሰላምታ ሰላም እንልሻለን\n
+		\t      በሃሳብሽ ድንግል ነሽ በሥጋሽም ድንግል ነሽ\n
+		\t      የአሸናፊ የእግዚአብሔር እናት ሆይ፤ ሰላምታ ላንቺ ይገባሻል\n
+		\t      ከሴቶች ሁሉ ተለይተሽ አንቺ የተባረክሽ ነሽ የማኅፀንሽም ፍሬ የተባረከ ነው\n
+		\t      ጸጋን የተመላሽ ድንግል ሆይ ደስ ይበልሽ እግዚአብሔር ካንቺ ጋር ነውና\n
+		\t      ከተወደደው ልጅሽ ከጌታችን ከመድኃኒታችን ከኢየሱስ ክርስቶስ ዘንድ\n
+		\t      ይቅርታና ምህረትን ለምኝልን ኃጢአታችንን ያስተሰረይልን ዘንድ ለዘላዓለሙ አሜን።\n\n
+
+		\t፬.    \t \t የሃይማኖት መሰረት\n\n
+		\t      ሁሉን የፈጠረ አንድ አምላክ በሚሆን በእግዚአብሔር አብ እናምናለን።\n
+		\t      ሰማይንና ምድርን የፈጠረ የሚታየውንና የማያታየውን ዓለም ሳይፈጠር ከእርሱጋር በነበረ አንድ የአብ ልጅ በሚሆን በአንድ ጌታ 		በኢየሱስ ክርስቶስ እናምናለን።\n
+		\t      ከብርሃን የተገኘ ብርሃን ከእውነተኛ አምላክ የተገኘ እውነተኛ አምላክ የተወለደ እንጂ ያልተፈጠረ በባህሪው ከአብ ጋር የሚተካከል ሁሉ በርሱ የሆነ በሰማይም ካለው በምድርም ካለው ያለርሱ ምንም ምን የሆነ የለም።\n
+		\t      ስለኛ ስለሰዎች እኛን ለማዳን ከሰማይ ወረደ በመንፈስ ቅዱስ ግብር ከቅድስት ድንግል ማርያም ፍጹም ሰው ሆነ ደግሞም ስለእኛ ተሰቀለ በጰንጤላዊው በጲላጦስ ዘመን እርሱ መከራን ተቀበለ ሞተ ተቀበረ በሶስተኛውም ቀን ከሙታን ተለይቶ ተነሳ። በቅዱሳት መጻህፍት እንደተጻፈ በክብር በምስጋና ወደሰማይ አረገ። በአባቱም ቀኝ ተቀመጠ  ዳግመኛም በህያዋንና በሙታን ለመፍረድ በምስጋና ይመጣል ለመንግስቱም ፍጻሜ የለውም።\n
+		\t      በመንፈስ ቅዱስም እናምናለን እርሱም ጌታ ህይወትን የሚሰጥ ከአብ የሠረፀ ከአብ ከወልድ ጋር በአንድነት እንሰግድለታለን እናመሰግነዋለን። እርሱም በነብያት አድሮ የተናገረ ነው።\n
+		\t      ከሁሉም በላይ በምትሆን ሐዋርያት በሰበሰቧት በአንዲት ክብርት ቤተክርስቲያን እናምናለን።\n
+		\t      ኃጢአት በሚሠረይባት በአንዲት ጥምቀት እናምናለን ፤ የሙታንን መነሳት ተስፋ እናደርጋለን የሚመጣውንም ህይወት ለዘለዓለሙ አሜን።\n
+
+		\t፭.		አሸናፊ እግዚአብሔር ሆይ ቅዱስ ቅዱስ ቅዱስ ተብለህ ትመሰገናለህ ምስጋናህም በሰማይና በምድር የመላ ነው።\n
+		\t      ክርስቶስ ለአንተ እንሰግድልሃለን። ሰማያዊ ከሚሆን ከቸር አባትህ ጋራ አዳኝ ከሚሆን ከመንፈስ ቅዱስ ጋራ እንሰግድልሃለን። ወደዚህ ዓለም መጥተህ አድነኸናልና።\n\n
+
+		\t፮.		ለአብ ለወልድ ለመንፈስ ቅዱስ አንዲት ስግደት እሰግዳለሁ (፫ ጊዜ) \n
+		\t      አንድ ሲሆን ሦስት ሦስት ሲሆኑ አንድ በአካል ሶስት ሲሆኑ በመለኮት አንድ ለሚሆን አምላክ እሰግዳለሁ።\n
+		\t      አምላክን ለወለደች ለእመቤታችን ለድንግል ማርያም እሰግዳለሁ ፤ ዓለምን ሁሉ ለማዳን ሲል ኢየሱስ ክርስቶስ ለተሰቀለበት መስቀልም እሰግዳለሁ። \n
+		\t      መስቀል ሃይላችን ነው ፤ ሃይላችን መስቀል ነው የሚያጸናን መስቀል ነው መስቀል ቤዛችን ነው መስቀል የነፍሳችን መዳኛ ነው። አይሁድ ይክዱታል እኛ ግን እናምነዋለን ያመነውም እኛ በመስቀሉ እንድናለን ድነናልም።\n\n
+
+		\t፯.		ለአብ ምስጋና ይገባል ለወልድ ምስጋና ይገባል ለመንፈስ ቅዱስም ምስጋና ይገባል (፫ ጊዜ)\n
+		\t      አምላክን ለወለደች ለእመቤትችን ለቅድስት ድንግል ማርያም ምስጋና ይገባል\n
+		\t      ለኢየሱስ ክርስቶስ መስቀልም ምስጋና ይገባል\n
+		\t      ክርስቶስ በቸርነቱ ያስበን ዘንድ\n
+		\t      ዳግመኛም በመጣ ጊዜ እንዳያሳፍረን\n
+		\t      ስሙን ለማመስገን ያነቃን ዘንድ\n
+		\t      እሱንም በማምለክ ያጸናን ዘንድ\n
+		\t      እመቤታችን ጸሎታችንን አሳርጊልን\n
+		\t      ኃጢያታችንንም አስተሥርዪልን\n
+		\t      በጌታችን መንበር ፊት  ጸሎታችንን አሳርጊልን\n
+		\t      ይህንን ህብስት ላበላን\n
+		\t      ይህንንም ጽዋ ላጠጣን\n
+		\t      ልብሳችንን ላዘጋጀልን\n
+		\t      ኃጢአታችንንም ሁሉ ለታገሰልን\n
+		\t      ክቡር ደሙን ቅዱስ ሥጋውን ለሰጠን\n
+		\t      እስከዚህችም ሰዓት ላደረሰን\n
+		\t      ለእርሱ ለልዑል እግዚአብሔር ፍጹም ምስጋና ይገባል\n
+		\t      ለወለደችው ለድንግልም ምስጋና ይገባል\n
+		\t      ለክቡር መስቀሉም ምስጋና ይገባል\n
+		\t      የእግዚአብሔር ስሙ ፈጽሞ ይመሰገን ዘንድ ዘወትር በየጊዜያቱና በየሰዓቱ ምስጋና ይገባል።\n\n
+
+
+		\t፰.	እናታችን ማርያም ሆይ ሰላም ላንቺ ይሁን እያልን እንሰግድልሻለን እንማልድሻለን\n
+		\t      ከክፉ አውሬ ታድኝን ዘንድ ተማፅነንብሻል\n
+		\t      ስለእናትሽ ስለሃና ብለሽ ስለአባትሽ ስለ ኢያቄም ብለሽ ድንግል ማህበርችንን ዛሬ ባርኪልን።\n\n
+
+		\t፱.	አምላክን በድንግልና የወለደች የእመቤታችን የማርያም ጸሎት።\n
+		\t\t      (ሉቃስ ፩ ፥ ፵፮- ፶፮)
+
+		\t      ማርያምም አለች ነፍሴ እግዚአብሔርን ታላቅ ታደርገዋለች\n
+		\t      መንፈሴም በመድኃኒቴ በእግዚአብሔር ደስ ይላታል\n
+		\t      የባሪያዪቱን መዋረድ አይቷልና።\n
+		\t      እነሆ ከዛሬ ጀምሮ ትውልድ ሁሉ ያመሰግኑኛል።\n
+		\t      እርሱ ብርቱ የሚሆን ታላቅ ሥራን ለእኔ አድርጓልና።\n
+		\t      ስሙም ቅዱስ ነው ለሚፈሩትም ምህረቱ ለልጅ ልጅ ነው። \n
+		\t      ኃይልን በክንዱ አደረገ በልባቸው ሃሳብ የሚኮሩ ትዕቢተኞችን በታተናቸው\n
+		\t      ብርቱዎችንም ከዙፋናቸው አዋረዳቸው \n
+		\t      የተዋረዱትንም ከፍ ከፍ አደረጋቸው \n
+		\t      የተራቡትንም በቸርነቱ አጠገባቸው \n
+		\t      ባለጠጎችንም ባዶ እጃቸውን ሰደዳቸው።\n
+		\t      ምህረቱን እንዲያስብ እስራኤል ባርያውን ተቀበለ። ለአባቶቻችን ለአብርሃምና ለዘሩም እስከዘላለም እንደተናገረው።\n\n
+
+
+    </string>
+
+    <string name="reader_prayer_monday_header_label">
+        A HYMN OF PRAISE FOR THE SECOND DAY OF THE WEEK (MONDAY)
+    </string>
+
+    <string name="reader_prayer_monday_label">
+	\t1.	God wished to set free ADAM, Who was sad at heart and sorrowful, and in the greatness of His compassion and mercy to bring him back to the state wherein he was formerly.\n\n
+
+	\t2.	He rose up in flesh of the Virgin without the seed of man. \n
+		He came, He saved us. God passed the decree of judgment upon EVE whom the serpent led astray, saying, "I will multiply greatly thy pain and thy suffering" (Genesis iii. 16).\n
+		Nevertheless, His heart inclined to love for man, and He set him free. He hath appeared.\n\n
+
+	\t3.	JESUS CHRIST, the Word Who became incarnate, and He dwelt with us, and we saw His glory like the glory of the Only-begotten of His Father (John i.14), He hath been pleased to show compassion upon us. He hath appeared.\n\n
+
+	\t4.	ISAIAH the Prophet in the spirit of prophecy saw the mystery of EMMANUEL, and therefore he cried out, saying, "A Child is born unto us, a Son is given unto us" (Isaiah ix. 6). He hath appeared.\n\n
+
+	\t5.	Rejoice and be glad, O race of the children of men, for God hath loved the world, and given His only Son that all who believes in Him may have everlasting life (John iii. 16). \n
+		The Most High hath sent unto us His arm. He hath appeared.\n\n
+
+	\t6.	He Who was and shall be, He Who came and shall come again, is JESUS CHRIST, the Word Who became incarnate without any change.\n
+		He was a perfect man, without division and without separation, in all His work the Only-begotten, but with one form, one being, and one divinity (or,Godhead)—God the Word. He hath appeared.\n\n
+
+	\t7.	Rejoice, O BETHLEHEM, the town of the Prophets, for in thee was orn CHRIST, the second ADAM, so that He might bring the first ADAM from the earth into the Garden (i.e. Paradise), and destroy the doom of death.\n
+		O ADAM, dust thou art and to dust shalt thou return. Where sin abounded there the grace of God abounded likewise (Romans v.20). He hath appeared.\n\n
+
+	\t8.	Let all souls of men rejoice and be glad with the angles, and let them praise CHRIST, the Kind, and cry out and say, "Glory to God in the heavens, and peace on the earth, [and] His good will to men" (Luke ii. 14).\n
+		He hath abolished the things of old, and overthrown the plot of the Enemy, and torn in pieces the bill of indictment (Ephesians ii. 15) of ADAM and EVE and set them free, He Who was born for us in the city of DAVID our Redeemer, JESUS CHRIST hath done this. He hath appeared.\n\n
+
+	\t9.	Thou Light, Who in truth illuminest all men who dwell in the world, because of Thy love for man Thou hast come into the world, because of Thy love for man Thou hast come into the world.\n
+		All created things rejoiced at Thy coming, because Thou didst deliver ADAM from his error, and didst set free EVE from the suffering of death, and hast given unto us the soul of prophecy. We bless Thee with Thine angles. [Rubric].\n
+		On fast days thou shalt say thus; CHRIST hath risen up in the flesh of the Virgin: He fasted forty days and forty nights in order that He might deliver us.
+    </string>
+
+    <string name="reader_prayer_tuesday_header_label">
+         A HYMN OF PRAISE FOR THE THIRD DAY OF THE WEEK (TUESDAY)
+    </string>
+
+    <string name="reader_prayer_tuesday_label">
+	\t1.	The crown of our glory and the origin of our deliverance (or, alvation) and the foundation of our sanctification came into being in MARY the Virgin, who brought for us God the Word, Who became incarnate for our salvation. And after He became man of a certainty He was perfect God. And for this reason she gave birth to Him being a virgin. The power of her bringing forth is a marvellous thing that cannot be described. Of His own free will, and by the good pleasure of His Father and the Holy Spirit, He came forth and hath delivered us.\n\n
+
+	\t2.	Great is the praise of thy virginity, O MARY, thou perfect (or, absolute) virgin. Thou didst receive grace, God was with thee. Thou art the Ladder which JACOB saw reaching from earth to heaven, with the angles of God ascending and descending upon it (Genesis xxviii. 12). So Then\n\n
+
+	\t3.	Thou art the Bush which MOSES saw blazing with fire, and the wood thereof was not consumed (Exodus iii.2). It was the son of God Who dwelt in thy womb, and the fire of His divinity did not consume thy flesh. So then\n\n
+
+	\t4.	Thou art that Field wherein no seed was sown, and yet there went forth from thee the Fruit of Life. Thou art that Treasure-house which JOSEPH bought, and he found therein a Pearl, a precious gem, that is to say, or Redeemer JESUS CHRIST. Thou didst carry it in thy womb and didst bring Him forth into the world. So then\n\n
+
+	\t5.	Rejoice thou, O God-bearer, thou joy of the angels. Rejoice thou, who wast the woman foretold by the Prophets. Rejoice thou, for thou didst find favour, God was with thee. Rejoice thou, for thou hast received the voice of the Angel [GABRIEL], the joy of all the world. Rejoice thou, O Bearer of the Creator of all the world. So then\n\n
+
+	\t6.	Rejoice thou because it is meet that thou shouldst be called,  "Bearer of God". Rejoice thou, O thou woman who deliveredst EVE. Rejoice thou, for thou didst suckle Him Who suckleth all creation. Rejoice thou, O holy woman, the mother of all living beings. We lift our eyes to thee with entreaty that thou wilt pray on our behalf. So then,\n\n
+
+	\t7.	Virgin, O Saint, O Bearer of God, since thou didst bring forth the KING, a marvellous mystery dwelt upon thee for our salvation. We will hold our peace, for we are unable to search into the matter completely, as the greatness thereof rquireth, and will describe that Doer of good things, through the exceedingly great wonder of the manifestation. So then\n\n
+
+	\t8.	He was the Living Word of the Father Who came down on Mount SINAI, and gave the Law to MOSES (Exodus xix. 16 ff.) whilst the top of the mountain was covered with mist, and with smoke, and with darkness, and with storm, and with the terrifying blasts of trumpets. He admonished those who were standing there in fear, So then\n\n
+
+	\t9.	It was He Who came down to thee, O rational mountain, in the humility of the Lover of men. Without any change He became incarnate of thee, and took a perfect body, endowed with reason and like unto ourselves, through the spirit of wisdom. God took up His abode on her and became perfect man so that He might deliver ADAM, and forgive him his sin, and make him to dwell in heaven, and bring him back to his former state in His abundant compassion and mercy. So then\n\n
+
+	\t10.	It is impossible for any to describe the greatness of the Virgin. For God chose her, and He came and dwelt upon her. He Who dwelt in the light, Whom none could approach, was carried in her womb nine months. He Who is invisible, He Who is incomprehensible did MARY bring forth, being a virgin. So then\n\n
+
+	\t11.	This is the stone which DANIEL the prophet saw, which was hewn from a high mountain, without hands (Daniel ii. 34, 35), that is to say, the Word Who went forth from the Father. He came and became incarnate of the Virgin without seed of men, and delivered us. So then\n\n
+
+	\t12.	Thou art the pure twig and the right vessel of the True Faith of the saints our Fathers. O thou pure God-bearer, O thou sealed Virgin, thou didst bring forth for us the Word of the Father, JESUS CHRIST. He came and He hath delivered us. So then\n\n
+
+	\t13.	Thou art the Mother of the Glorious Light, O God-bearer. Thou didst carry the Word Who is invisible, and after thou hadst brought Him forth thou didst continue to be a virgin. With praise and blessing shall men magnify thee. So then\n\n
+
+	\t14.	What tongue is able to proclaim that which should be declared concerning thee, O thou pure Virgin, Mother of the Light, the Word of the Father? Thou wast the throne of the KING Whom the Cherubim carry. We ascribe blessings unto thee, O blessed woman, and we will remember thy name from generation to generation, O Beautiful Dove, Mother of our Lord JESUS CHRIST. So then\n\n
+
+	\t15.	Rejoice thou, O MARY, Mother and Maid, for unto Him Who is in thy bosom the angles bring praises, and the Cherubim bow down and worship Him in fear, and the Seraphim spread out their wings, and say concerning Him ceaselessly, "This is the KING of Glory." He came to forgive the sins of the world in the greatness of His compassion\n\n
+
+    </string>
+
+    <string name="reader_prayer_wedensday_header_label">
+         A HYMN OF PRAISE FOR THE FOURTH DAY OF THE WEEK (WEDNESDAY)
+    </string>
+
+    <string name="reader_prayer_wedensday_label">
+	\t1.	All the hosts of the heavens say, "Blessed art thou, O thou second heaven upon the earth, Door of the sunrise (or, the East), MARY the Virgin, thou pure Bride-chamber of the Holy Bridegroom. The Father looked down from heaven, and found none like unto thee; He sent His only One, and He became incarnate of thee. All generations shall ascribe blessings unto thee, thou who alone art our Lady, the Bearer of God."\n\n
+
+	\t2.	Great and wonderful things have [the Prophets] prophesied concerning thee, O City of God, for thou art the abode of all those who rejoice. All the kings of the earth walk in thy light and [all] the nations in thy splendour (Isaiah lx. 3). O MARY, all generations shall ascribe blessings unto thee, and shall worship Him Who was brought forth by thee, and shall magnify Him. All [of them].\n\n
+
+	\t3.	Thou art in very truth the Cloud, and thou hast shown us the water of the rain, the sign of the Only-begotten. The Father established thee, the Holy Ghost took up His abode on thee, and the power of the Most High overshadowed thee, O MARY, and verily thou didst bring forth the Word, the Son of God, Who endureth for ever. He came and hath delivered us from sin. \n
+
+	Great was the honour that was bestowed upon thee, O GABRIEL, the Angel of the Annunciation with the joyful face. Thou didst proclaim unto us the birth of the Lord, Who hath come to us, and thou didst announce Him to MARY, the spotless Virgin, and didst say unto her, "Rejoice thou, O thou who art full of grace, God is with thee" (Luke i. 28). All [of them].\n\n
+
+	\t4.	Thou didst find grace, the Holy Spirit dwelt upon thee, and the power of the Most High overshadowed thee, O MARY. Verily thou didst bring forth the Holy Saviour for all the world. He came and He hath delivered us. All [of them].\n\n
+
+	\t5.	Our tongue this day praiseth the work of the Virgin. We praise ARY, the God-bearer, because our Lord and Redeemer JESUS CHRIST was born of her in the city of DAVID. Come, O all ye nations, and let us ascribe blessing unto MARY, for she is at once mother and virgin.\n
+
+	Rejoice, O pure Virgin, in whom there is no blemish, to whom came the Word of the Father, Who was incarnate of her. Rejoice, O Vessel unblemished, perfect, and spotless Woman. Rejoice thou, O Garden endowed with reason, thou Abode of CHRIST, Who became the Second ADAM because of the First ADAM, the man. Rejoice thou, O woman who borest the Only-begotten, Who, having gone forth from the bosom of His Father, suffered no change.\n
+
+	Rejoice, O thou pure Bride-chamber, who art adorned with all the beauty of praise, He came and was not consumed by the fire of the Godhead. Rejoice thou, O Mother and Maid, Virgin, thou second heaven, who didst carry in thy body Him Who is borne aloft by the Cherubim and Seraphim. And because of this we rejoice, and we sing with the holy angels with joy and gladness, and we say, "Glory to God in the heavens, and peace upon earth, His good will to men" (Luke ii. 14).\n
+	For He unto Whom belong glory and praise for ever and ever is well-pleased with thee. Amen. All [of them].\n\n
+
+	\t6.	The glory of MARY is greater than that of all the saints, for she was worthy to receive the Word of the Father. Him Who maketh the angels to be afraid, Him Whom the Watching Angels in heaven praise, did MARY the Virgin carry in her womb. She is greater than the Cherubim, and superior to the Seraphim, for she was the Ark (or, Tabernacle) of One of the Holy Trinity. She is JERUSALEM, the city of the Prophets, and she is the habitation of the joy of all the saints. On the people who sat in darkness and the shadow of death hath a great Light risen.\n
+	God Who resteth in His holiness became incarnate of a virgin for our salvation. Come ye and look upon this marvellous thing, and sing ye His song because of the mystery that hath been revealed unto us. For He Who was became a man, the Word mingled [with our nature], He Who had no beginning [assumed] a beginning for Himself, and He Who had no days [reckoned] to Himself days, and He Who could not be known became revealed, and He Who was invisible showed Himself; the Son of the Living God became a man indeed, JESUS CHRIST, yesterday, to-day, and forever (Hebrews xiii. 8), One Nature, Him do we worship and praise. All [of them].\n\n
+
+	\t7.	EZEKIEL the Prophet testified concerning her and said, "I see a sealed door in the East, sealed with a great and wonderful seal, and no one save the God of the mighty ones hath gone in through it. He went in and He came out" (Ezekiel xliii. 4; xliv, 1, 2). All [of them].\n\n
+
+	\t8.	This door is the Virgin who brought forth for us the Redeemer. She brought Him forth, and she remained in her virginity after she had brought Him forth. Blessed is the Fruit of thy womb, O God-bearer, Who came and delivered us out of the hand of the Enemy who was merciless, Complete art thou and blessed; thou hast found grace with the KING of Glory, the God in truth.\n
+
+	Majesty and glory belong to thee more than to all those who dwell upon the earth. The Word of the Father came and was incarnate of thee, and walked about with men, for He is compassionate and a Lover of men. He delivered our souls by His holy coming.\n\n
+
+    </string>
+
+    <string name="reader_prayer_thursday_header_label">
+        A HYMN OF PRAISE FOR THE FIFTH DAY OF THE WEEK (THURSDAY)
+    </string>
+
+    <string name="reader_prayer_thursday_label">
+	\t1.	The Bush which MOSES saw in flaming fire in the desert the wood of which was not consumed is a similitude of MARY, the Virgin who was spotless. The Word of the Father became incarnate of her, and the fire of His Godhead did not consume the Virgin, and after she had brought Him forth her virginity was maintained, and His Godhead was unchanged. Our God, Who verily is God, became a man; He came and delivered us. We all magnify thee, O our Lady, the God-bearer, that thy compassion may be over us all.\n\n
+
+	\t2.	The VIRGIN MARY, the God-bearer, hath become the object of the boast of all of us, because through her was destroyed the curse of olden time, which rested upon our race, through the wickedness which the woman committed [when] she ate [of] the tree. Through EVE was the door of the Garden shut fast, and because of MARY the Virgin it hath been opened to us again. It is allotted to us to eat of the ree of Life, that is to say, the Body of CHRIST and His precious Blood. \n
+
+	Because of His love for us He came and delivered us. What understanding, and What language, and What hearing is able to comprehend this mystery, which must be proclaimed to be wonderful, "God is the lover of men?" One is He Alone, the Word of the Father, Who existed before the world in His incorruptible God-head, from One, the Father. The Only-begotten Son came and was incarnate of the holy woman His mother, and after she brought Him forth her virginity perished not, and because of this it became manifest that she was the Bearer of God. O deep is the richness of the wisdom of God! The womb which He decreed should bring forth children in pain, and suffering, and sorrow of heart, hath become the fountain of life, and hath brought forth without the seed of man Him Who removed the curse from our race. And for this reason we will praise Him, saying, "Glory be unto Thee, O Thou Good Friend of man, the Redeemer of our souls." We will magnify thee [,O MARY].\n\n
+
+	\t3.	O how wonderful and mighty in power was the womb of the Virgin, which brought forth God without seed! And of this the angel who appeared unto JOSEPH was a witness when he spake, saying, "That which shall be born of her is of the Holy Spirit" (Matthew i. 20). It was the Word of God Who became incarnate without change. MARY brought Him forth a second time. \n
+
+	And GABRIEL rejoiced and said unto her, "Thou shalt bring forth a Son and shalt call His Name EMMANUEL, which is, being interpreted, God with us. And moreover, He shall be called JESUS, Who shall save His people from their sins" (Matthew i. 20, 24). And may He save us also be His power, and forgive our sins, because we have known in truth that He is the God Who became man.\n
+
+	Praise be unto Him forever and ever. O how wonderful is the birth of God by MARY, the Holy Virgin! She completed the Word of the Father; seed did not precede His Birth, and her virginity was not destroyed by His Birth. The Word went forth from the Father without weariness and was born of the Virgin without suffering (or, pain). The wise men worshipped Him, and brought unto Him incense because He was God, and gold because He was the KING, and myrrh, which was given for His death which gave life [unto men]. And for ur sakes He accepted [death] of His own free will. He alone is the Good Being and the Lover of men. We will magnify thee [, O MARY].\n\n
+
+	\t4.	O how wonderful! He took a rib from the side of ADAM, and fashioned from it a woman, and the whole creation of the children of men was given to God, the Word of the Father, Who was incarnate of the Holy Virgin, and is called EMMANUEL. And because of this we beseech her at all times to strive on our behalf with her beloved Son for the forgiveness of our sins. She was beneficent towards all the saints and the high priests, for she brought to them that for which they waited, and she brought to the Prophets Him concerning Whom they had prophesied, and she brought forth to the Apostles Him in Whose Name they were to preach in all the ends of the world, and from her went forth for the martyrs and believers Him for Whom they were to fight, JESUS CHRIST. The richness of the grace of His wisdom cannot be fathomed. We will seek after the greatness of His compassion, for He came and delivered us. We will magnify thee [, O MARY].\n\n
+
+	\t5.	God swore unto DAVID in righteousness, and He will not repent, "Of the fruit of thy belly I will seat upon thy throne" (2 Samuel vii., 12; Psalm cxxxii. 11). And when that righteous man received it from Him, that CHRIST should be born of him in the flesh, he wished to seek out and to prepare a dwelling-place for God, the Word of the Father. And he completed it with great effort and then he cried out in the Holy Sprit and said, "Behold, we have heard it in EFRÂTÂ and the dwelling-place of the God of JACOB, which is BETHLEHEM, in which EMMANUEL hath chosen to be born in the flesh for our salvation" (compare Psalm cxxxii.6). \n\n
+
+	\t6.	And also another of the prophets hath said it: "And as for thee, O BETHLEHEM [of] the land of EFRÂTÂ, thou shalt not be the least of the kings of JUDAH, for from thee shall go forth a King Who shall rule My people ISRAEL" (Micah v.2). O how wonderful is the word of those who prophesied concerning CHRIST in one Spirit, to Whom be glory, together with His Good Father and the Holy Spirit, henceforth and forever. We will magnify thee [, O MARY].\n\n
+
+	\t7.	When evil men revolted against DAVID who reigned over ISRAEL, he wished to drink water from the pool of BETHELEHEM, whereupon straightway the captains of his hosts rose up, and waged war in the camp of the rebels, and brought unto him that water which he wished to drink. And when that righteous man saw that they had willingly delivered themselves over to slaughter for this sake, he poured out that water [unto the Lord] and did not drink of it (2 Samuel xxiii. 13-17; 1Chronicles xi. 18, 19). And then righteousness was accounted unto him forever. And verily in like manner have the martyrs rejected the desire of this world, and poured out their blood for God, and have endured bitter death[s] for the sake of the kingdom of heaven. Have compassion upon us according to the greatness of Thy compassion. We will magnify thee [, O MARY].\n\n
+
+	\t8.	One of the Holy Trinity saw our low estate, bowed the heaven of heavens, came and dwelt in the womb of the Virgin, and became a man like unto us, with the exception of sin alone. And He was born in BETHLEHEM, according to what the Prophets preached, He delivered us, and redeemed us, and made us His own people forever and ever.
+
+    </string>
+
+    <string name="reader_prayer_friday_header_label">
+      A HYMN OF PRAISE FOR SABBATH EVE (FRIDAY)
+    </string>
+
+    <string name="reader_prayer_friday_label">
+
+	\t1.	Blessed art thou among women, and blessed is the fruit of thy womb, O MARY the Virgin, the spotless God-bearer. From thee hath risen upon us the Sun of righteousness, and He hath drawn us near [to Him] under His wings, for He hath created us. Thou thyself alone, O our Lady, the God-bearer, art the Mother of the Light.\n
+	We will magnify thee with glorifying and praising. Blessed art thou! Thou art greater than heaven, and more glorious than earth, and exalted above the conception of every mind; who is able to declare thy greatness? There is none who can be compared with thee, O MARY the Virgin. The angels magnify thee, and the Seraphim praise thee, for He Who dwelleth upon the Cherubim and Seraphim came and took up His abode in thy womb. The Lover of men hath brought us nigh unto Himself, the death that belonged to us He hath removed, and hath given unto us the Life that was His, To Him belong glory, and praise. To thee.\n\n
+
+	\t2.	Blessed art thou, MARY, and blessed is the Fruit of thy womb. O virgin God- bearer, the glory of [all] virgins; He Who existed before the world became incarnate of thee. The Ancient of days came forth from thy womb, He took our flesh, and gave us His Holy Spirit, and in His abundant goodness made us co-equals with Him. Thou art greater than many women who have received grace and honour, O MARY the God-bearer, thou spiritual city wherein God the Most High took up His abode. Him Who sitteth above the Cherubim an Seraphim hast thou clasped with the hand. And He, Who of His abundant goodness feedeth every being of flesh, hath taken thy breast and sucked milk there-from – He Who is our God and the Redeemer of all, He shall shepherd us for ever. Let us worship Him and praise Him, for He hath created us. To thee.\n\n
+
+	\t3.	MARY the Virgin is the vessel of priceless ointment, the fountain-head (or, spring) of the water of life. The Fruit of her womb hath saved all the world, and abolished the curse which lay upon us, and made peace [to be] among us. By His Cross and by His holy Resurrection hath He brought man back again into the Garden (i.e. paradise). To thee.\n\n
+
+	\t4.	MARY, the pure Virgin, the Bearer of God, prayeth continully with compassion for the children of men. Pray thou for us to thy Son CHRIST that He may forgive us and have compassion upon us. To thee.\n\n
+
+	\t5.	MARY the Virgin cried out in the Sanctuary, saying, "God knoweth that I know no one and nothing more than the sound of the voice of the angle, who with hnour brought unto me glad tidings, and said unto me, 'Peace be unto thee, O holy Virgin. Thou shalt carry Him Who cannot be carried, and shalt contain Him Who cannot be contained, and Whom nothing can contain." Thy praise shall be abundant, O thou who art full of grace and honour, for thou didst become the dwelling-place of the Word of the Father. Thou art the tent that is spread out (i.e. pitched) and that gathereth together believing Christian folk, and teacheth them to worship the life-giving Trinity.\n\n
+
+	\t6.	Thou art she who bore the Pillar of fire, which MOSES saw, that is to say, the Son of God, Who came and dwelt in thy womb. Thou wast the Ark of the Creator of the heavens and the earth. Thou didst carry Him in thy womb nine months. Thou hadst in trust Him Whom the heavens and the earth cannot contain. Thou wast the Ladder whereby man ascended into heaven. Thy light is greater than the light of the sun.\n\n
+
+	\t7.	Thou art the eastern horizon, whereout came the brilliant star which the saints looked upon with joy and gladness. The decree that God passed upon EVE was, "Thou shalt bring froth children with toil and suffering," but thou didst hear a voice, saying, "Rejoice, O full of grace, thou hast brought forth for us the Word of the Father, the KING , the God of all creation." He came and delivered us, for He is the Compassionate Lover of men. And because of this we praise thee, even as did the Angel GABRIEL, saying, "Blessed art thou among women, and blessed is the Fruit of thy womb; rejoice, O thou who art full of grace, God is with thee!"\n\n
+
+    </string>
+
+    <string name="reader_prayer_saturday_header_label">
+      A HYMN OF PRAISE FOR THE SIX DAY (SATURDAY)
+    </string>
+
+    <string name="reader_prayer_saturday_label">
+	\t1.	Pure and shining, holy and praiseworthy art thou in everything, O thou who hast clasped the Lord in her hand. All creation rejoiceth with her, and crieth out, saying, "Rejoice, O full of grace, rejoice thou, for thou hast found favour; rejoice thou, for God is with thee."\n\n
+
+	\t2.	We ascribe blessings to thy greatness, O awesome Virgin, and we send to thee joy with the angel GABRIEL, for the Fruit of thy womb hath become the salvation of our race, and hath brought us nigh unto God His Father. Rejoice thou.\n\n
+
+	\t3.	As at a marriage undefiled the Holy Ghost took up His abode in thee, and the power of the Most High overshadowed thee. O MARY, verily thou hast brought forth for us the Word, the Son of the Father, Who welleth (or, existeth) for ever. He came and saved us from sin. Rejoice thou.\n\n
+
+	\t4.	Thou art the young Shoot from the root of DAVID. Thou hast brought forth for us in the flesh our Savior JESUS CHRIST, the Only-begotten Word, Who was of the Father, Who was hidden before the world, and hiding Himself took from thee the form (or, appearance) of a slave. Rejoice thou.\n\n
+
+	\t5.	Thou art the Second Heaven over the earth, O spotless God-bearer. From thee hath risen upon us the Sun of righteousness, and thou didst bring Him forth, according to the prophecy of the Prophets, without seed and without defilement. Rejoice thou.\n\n
+
+	\t6.	Thou art that Tabernacle which was called "Holy of Holies", wherein was the Ark (Tâbôt) which was covered on all sides with plates of gold, and had therein the Table of the Covenant and the pot of gold of the hidden manna, that is to say, the Son of God. He came and dwelt with MARY, the Virgin without blemish. He was incarnate of her, and she brought forth in the world the KING of Glory. He came and delivered us. The Garden (i.e. Paradise) shall rejoice, for the Lamb that is endowed with reason, the Son of the Father, Who dwelleth for ever, hath come and delivered us from sin. Rejoice thou.\n\n
+
+	\t7.	Thou art called the Mother of CHRIST, the KING. After thou didst bring Him forth, thou didst continue in thy spotless virginity through a marvellous mystery. Thou didst bring forth EMMANUEL, and because of this thou didst preserve thyself undefiled. Rejoice thou.\n\n
+
+	\t8.	Thou art the Ladder on which JACOB saw the Son of God for thou hast carried in thy sealed womb Him Who could not be touched. Thou hast become for us an intercessor with our Lord JESUS CHRIST, Who became incarnate of thee for our salvation. Rejoice thou.\n\n
+
+	\t9.	Behold, the Lord came forth from thee, O blessed Lady, thou undefiled Bride-chamber, to save the whole world which He had created in His abundant compassion and mercy. We glorify Him and we praise Him for He is the Beneficent One, the Lover of men. Rejoice thou.\n\n
+
+	\t10.	Rejoice thou, O full of grace. Virgin unblemished, Vessel undefiled, Glory of the world, Light which shall never be extinguished, Shrine that shall never be overthrown. Staff of the Faith, thou never-failing support of the saints, pray thou for us to thy Beneficent Son, our Redeemer, that He may have mercy upon us, and show us compassion, and forgive us our sins in His mercy forever and ever.\n\n
+
+	Amen.
+
+    </string>
+
+    <string name="reader_prayer_sunday_header_label">
+        A HYMN OF PRAISE FOR THE FIRST DAY OF THE WEEK (SUNDAY)
+    </string>
+
+    <string name="reader_prayer_sunday_label">
+
+	\t1.  THOU wast named "Beloved Woman", O blessed among women. \n
+	Thou art the second chamber, in that thou wast called "Holiest of Holies", and in it was the table of the Covenant and on it were the Ten Words which were written by the fingers of God.\n
+	He (i.e. the Father) made known this to us first of all by "Yawtâ" (i.e. Iota), which is the first [letter] of the Name of our Redeemer JESUS CHRIST, Who became incarnate of thee without change, and became the mediator of the New Covenant, and by the shedding of His Holy Blood He purified the believers and the people who were pure.\n
+	And because of this we all magnify thee, O our Lady, thou ever pure God-bearer. \n
+	We beseech thee and lift our eyes to thee, so that we may find mercy and compassion with the Lover of Men.\n\n
+
+	\t2.  [Thou art] the Tabôt (i.e. Tabernacle or, Ark) which was covered on all its sides with gold, and was made of the wood that never perisheth, and that foreshadowed for us the Word of God, Who became man without separation and change, the pure and undefiled Deity, the equal of the Father, To thee, as the pure woman, [GABRIEL] announced [Him] without seed, And He became like unto us through the  might of His wisdom: He Who was incarnate of thee and He Who was spotless mingled His Divinity [without nature]. And because of this—\n\n
+
+	\t3.  [Thou] sanctuary which the Cherubim who are fashioned in the likeness of God surround—the Word, Who was incarnate of thee, O pure woman, without change hath become the Forgiver of our sins and the Destroyer of our transgressions. And because of this\n\n
+
+	\t4.  Thou art the holy golden pot wherein the manna is hidden, the bread which came down from heaven, the giver of life unto all the world. And because of this\n\n
+
+	\t5.  Thou art the golden candlestick and dost hold the brilliant Light at all times, the Light which is the Light of the world, the Light of Lights which had no beginning, verily God of God, Who became incarnate of thee without change. And by His coming He shed light upon us, upon those of us who were sitting in the shadow and darkness of death, and He set our feet upon the path of peace, through the mystery of His holy wisdom. And because of this\n\n
+
+	\t6.  Thou art the censer of gold because thou didst carry the coals of the blessed fire which He took from the sanctuary—He Who forgiveth sin an destroyeth wickedness, He Who is the Word of God, Who became incarnate of thee, and Who offered up to His Father incense and precious offerings. And because of this \n\n
+
+	\t7.  [Thou art] the garden of delight, the garden of joy, which is planted with the trees of LEBANON, and was prepared for the saints before the world was created. \n
+	[On] a great chariot, which was guarded by Cherubim and Seraphim that were fashioned out of flame of fire, one of the Seraphim visited her from heaven, and said unto her in the sanctuary,\n
+		"Blessed art thou among women. \n
+		The Holy Spirit shall come upon thee,\n
+		and the power of the Highest shall \n
+		over-shadow thee, for He Who dwelleth \n
+		above the Cherubim shall become \n
+		the Light for all the world." \n
+	Thou art the sweet-scented flower which hath sprung from the foot of JESSE. And because of this\n\n
+
+	\t8.  Thou art like unto the rod of AARON, which, without being planted in the ground and without watering, burst into blossom.\n
+	In like manner thou, O Bearer of CHRIST, didst bring forth CHRIST our God in truth, without seed. \n
+	He came and delivered us. And because of this\n\n
+
+	\t9.  It is meet for thee, O thou who art full of grace, more than for all the saints to pray on our behalf.\n
+	Thou art greater than the high-priests, and thou art more honourable than the Prophets; in thee there is majesty of appearance which is greater than the majesty of the Seraphim and Cherubim.\n
+	Verily thou art the glory of our race, and thou art she who must beg for life for our souls. \n
+	Pray thou then on our behalf to our Lord and Redeemer JESUS CHRIST that He may confirm us in the Right Faith, that is to say, faith in Him and the He may graciously bestow upon us His mercy and compassion,\n
+	and may in His abundant mercy forgive us our sins forever and ever. \n\n
+
+		Amen.
+    </string>
+
+    <string name="reader_prayer_anqetse_birhan_header_label">
+        ANQETSE BIRHAN
+    </string>
+
+    <string name="reader_prayer_anqetse_birhan_label">
+     	ANQETSE BIRHAN
+    </string>
+
+    <string name="reader_prayer_yiwedswea_melaekt_header_label">
+        YIWEDSEWA MELAEKT
+    </string>
+
+    <string name="reader_prayer_yiwedswea_melaekt_label">
+    	YIWEDSEWA MELAEKT
+    </string>
+
+    <string name="reader_prayer_melka_mariam_header_label">
+        MELKA MARIAM
+    </string>
+
+    <string name="reader_prayer_melka_mariam_label">
+    	MELKA MARIAM
+    </string>
+
+    <string name="reader_prayer_melka_eyesus_header_label">
+       MELKA EYESUS
+    </string>
+
+    <string name="reader_prayer_melka_eyesus_label">
+    	MELKA EYESUS
+    </string>
+
+    <string name="reader_prayer_melka_edom_header_label">
+        MELKA EDOM
+    </string>
+
+    <string name="reader_prayer_melka_edom_label">
+    	MELKA EDOM
+    </string>
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header" translatable="false">Language</string>
+    <string name="sync_header" translatable="false">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title" translatable="false">Sync email periodically</string>
+    <string name="attachment_title" translatable="false">Download incoming attachments</string>
+    <string name="attachment_summary_on" translatable="false">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off" translatable="false">Only download attachments when manually requested</string>
+	<string name="language_key" translatable="false">language</string>
+	<string name="theme_key" translatable="false">dark_theme</string>
+
+</resources>
